@@ -26,6 +26,7 @@ The TAC sponsor of this working group is Cory Omand (Pixar/TWDS).
     * structuring USD assets
     * making use of USD features
     * setting up development environments on supported platforms.
+3. Continuous integration on the public USD GitHub repository, potentially with binary artifacts for download.
 
 ## Communication
 
@@ -35,14 +36,16 @@ This WG communicates on the following channels:
 
 ## Meetings
 
-See the [ASWF public calendar](https://lists.aswf.io/calendar). This WG meets _meeting day/time and frequency TBD_. 
+See the [ASWF public calendar](https://lists.aswf.io/calendar). This WG meets every other Wednesday (opposite to the ASWF TAC meeting) from 2-2:50pm US/Pacific time and are open to anyone that is interested in participating in the working group.
 
-_provide the Zoom/conference call details_
+You can review past meeting notes [here](meetings).
 
-## In-person meetings
+For the next WG meeting, you can propose agenda items as a pull request against those meeting notes.
+
+### Conference call details
+
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/696327671
+
+### In-person meetings
 
 None planned at this time.
-
-## Meeting notes
-
-Meeting notes, recordings, and any presentations made during WG meetings are available [here](meetings).
