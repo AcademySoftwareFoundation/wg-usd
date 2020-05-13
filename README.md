@@ -33,6 +33,7 @@ The TAC sponsor of this working group is Cory Omand (Pixar/TWDS).
 This WG communicates on the following channels:
 
 - usd-interest@googlegroups.com
+- [ASWF Slack #wg-usd](https://academysoftwarefdn.slack.com/archives/C013Z5AMT7T)
 
 ## Meetings
 
