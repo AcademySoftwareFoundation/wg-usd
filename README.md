@@ -21,7 +21,11 @@ The TAC sponsor of this working group is Cory Omand (Pixar/TWDS).
 
 ## Deliverables
 
-1. _TBD with group meeting_
+1. Providing vetted solutions for solving the most common issues raised on the usd-interest forum.
+2. Documentation describing best practices for
+    * structuring USD assets
+    * making use of USD features
+    * setting up development environments on supported platforms.
 
 ## Communication
 
