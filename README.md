@@ -8,8 +8,8 @@ helping with issues raised in various USD support channels where possible.
 
 Goals of the WG are:
 
-1. Consolidate and share best practices for deployment of USD technologies.
-2. Assist community members with issues raised in USD support channels.
+1. Assist community members with issues raised in USD support channels.
+2. Consolidate and share best practices for deployment of USD technologies.
 
 Non-goals of the WG are:
 
