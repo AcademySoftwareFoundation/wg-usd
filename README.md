@@ -34,15 +34,15 @@ This WG communicates on the following channels:
 
 - usd-interest@googlegroups.com
 - [ASWF Slack #wg-usd](https://academysoftwarefdn.slack.com/archives/C013Z5AMT7T)
-- [ASWF USD Working Group Knowledge Base](https://wiki.aswf.io/display/WGUSD/USD+Working+Group)
+- [ASWF USD Working Group Wiki](https://wiki.aswf.io/display/WGUSD/USD+Working+Group)
 
 ## Meetings
 
 See the [ASWF public calendar](https://lists.aswf.io/calendar). This WG meets every other Wednesday (opposite to the ASWF TAC meeting) from 2-2:50pm US/Pacific time and are open to anyone that is interested in participating in the working group.
 
-You can review past meeting notes [here](meetings).
+You can see upcoming agendas and review past meeting notes [here](https://wiki.aswf.io/pages/viewpage.action?pageId=1736722).
 
-For the next WG meeting, you can propose agenda items as a pull request against those meeting notes.
+For the next WG meeting, you can propose agenda items in the wiki -- please put your name next to the proposed item. Agendas are typically finalized the day before the scheduled meeting.
 
 ### Conference call details
 
