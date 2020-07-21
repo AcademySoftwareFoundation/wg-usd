@@ -34,6 +34,7 @@ This WG communicates on the following channels:
 
 - usd-interest@googlegroups.com
 - [ASWF Slack #wg-usd](https://academysoftwarefdn.slack.com/archives/C013Z5AMT7T)
+- [ASWF USD Working Group Knowledge Base](https://wiki.aswf.io/display/WGUSD/USD+Working+Group)
 
 ## Meetings
 
