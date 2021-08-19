@@ -46,7 +46,7 @@ For the next WG meeting, you can propose agenda items in the wiki -- please put 
 
 ### Conference call details
 
-Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/696327671
+Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/96856107067?pwd=aDRJSXgyblpidCtNMzg0Q2VMaS9adz09
 
 ### In-person meetings
 
