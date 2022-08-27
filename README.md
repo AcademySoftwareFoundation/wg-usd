@@ -38,7 +38,7 @@ This WG communicates on the following channels:
 
 ## Meetings
 
-See the [ASWF public calendar](https://lists.aswf.io/calendar). This WG meets every other Wednesday (opposite to the ASWF TAC meeting) from 2-2:50pm US/Pacific time and are open to anyone that is interested in participating in the working group.
+See the [public WG calendar](https://lists.aswf.io/g/wg-usd/calendar). This WG meets every other Wednesday (opposite to the ASWF TAC meeting) from 1-2pm US/Pacific time and are open to anyone that is interested in participating in the working group. The calendar also includes meeting details for all sub-working groups and additional events.
 
 You can see upcoming agendas and review past meeting notes [here](https://wiki.aswf.io/pages/viewpage.action?pageId=1736722).
 
