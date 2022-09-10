@@ -1,32 +1,32 @@
 # Universal Scene Description Working Group (USDWG)
 
-The purpose of the USD working group is to support the USD project as it is
-adopted and deployed. Strong industry-wide interest in USD is beyond the
-capacity of Pixar alone to support. The aim of this working group is to assist
-adoption efforts through consolidation and sharing of best practices, and
-helping with issues raised in various USD support channels where possible.
+The purpose of the USD working group is to support the community as the
+USD project is increasingly adopted and deployed. This working group provides
+a vendor-neutral forum to assist adoption efforts through documentation,
+sharing of explorations, new developments, and best practices.
+
+The TAC sponsor of this working group is Cory Omand (Pixar/TWDS).
 
 Goals of the WG are:
 
 1. Assist community members with issues raised in USD support channels.
-2. Consolidate and share best practices for deployment of USD technologies.
+2. Survey, study, document, and share best practices for deployment of USD technologies.
+3. Provide a venue for community presentations of new and updated developments, integrations, and research.
 
 Non-goals of the WG are:
 
-1. This working group is not a steering committee. Members on the working
-   group have the same influence on the direction of the USD project as any
-   other member already participating in the USD community.
-
-The TAC sponsor of this working group is Cory Omand (Pixar/TWDS).
+1. This working group is not a steering committee.
+2. This working group has no special influence on USD, or other third party projects.
 
 ## Deliverables
 
-1. Providing vetted solutions for solving the most common issues raised on the usd-interest forum.
-2. Documentation describing best practices for
+1. Documenting vetted solutions for solving the most common issues raised on the usd-interest forum
+2. Position papers and other documents representing consensus opinions on USD related topics
+3. Documentation describing best practices for
     * structuring USD assets
     * making use of USD features
     * setting up development environments on supported platforms.
-3. Continuous integration on the public USD GitHub repository, potentially with binary artifacts for download.
+4. Video recordings of community presentations given to the working group.
 
 ## Communication
 
@@ -36,13 +36,17 @@ This WG communicates on the following channels:
 - [ASWF Slack #wg-usd](https://academysoftwarefdn.slack.com/archives/C013Z5AMT7T)
 - [ASWF USD Working Group Wiki](https://wiki.aswf.io/display/WGUSD/USD+Working+Group)
 
+Please note that access to the ASWF Slack is available via invitation. Anyone already on the slack can provide the invitation link.
+
 ## Meetings
 
-See the [public WG calendar](https://lists.aswf.io/g/wg-usd/calendar). This WG meets every other Wednesday (opposite to the ASWF TAC meeting) from 1-2pm US/Pacific time and are open to anyone that is interested in participating in the working group. The calendar also includes meeting details for all sub-working groups and additional events.
+This WG meets every other Wednesday (opposite to the ASWF TAC meeting) from 1-2pm US/Pacific time. The meetings are open to anyone to participate in. 
+
+See the [public WG calendar](https://lists.aswf.io/g/wg-usd/calendar). The calendar includes meeting details for the sub-working groups and occasional additional events.
 
 You can see upcoming agendas and review past meeting notes [here](https://wiki.aswf.io/pages/viewpage.action?pageId=1736722).
 
-For the next WG meeting, you can propose agenda items in the wiki -- please put your name next to the proposed item. Agendas are typically finalized the day before the scheduled meeting.
+Propose agenda items for the next WG meeting in the wiki -- please put your name next to the proposed item. Agendas are typically finalized the day before the scheduled meeting.
 
 ### Conference call details
 
@@ -50,4 +54,4 @@ Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/96856107067?pwd=aDRJ
 
 ### In-person meetings
 
-None planned at this time.
+None are planned at this time.
