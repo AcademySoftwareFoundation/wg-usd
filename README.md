@@ -2,7 +2,7 @@
 
 The purpose of the USD working group is to support the community as the
 USD project is increasingly adopted and deployed. This working group provides
-a vendor-neutral form to assist adoption efforts through documentation,
+a vendor-neutral forum to assist adoption efforts through documentation,
 sharing of explorations, new developments, and best practices.
 
 The TAC sponsor of this working group is Cory Omand (Pixar/TWDS).
